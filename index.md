@@ -8,7 +8,9 @@ subtitle: ein offener Raum zum Programmieren lernen für Kinder
 
 [zur Anmeldung](){: .btn}
 
-CoderDojo ist ein Club für Mädchen und Jungen im Alter von 6 bis 17 Jahren, die Programmieren lernen und Spaß haben wollen.
+Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Computerclub für junge Menschen. Jeder im Alter von 7 bis 17 Jahren kann ein Dojo besuchen und Programmieren lernen, eine Website erstellen oder eine App oder ein Spiel erstellen. Dojos sind ein Ort, an dem Kinder und Jugendliche Technologie in einer informellen, kreativen, sicheren und sozialen Umgebung erkunden können.
+
+Wir legen Schwerpunkte auf persönliche Betreuung für Jugendliche und auf Peer- und selbstgesteuertes Lernen.
 
 ![Bild1](/assets/img/crepe.jpg)
 ![Bild2](/assets/img/crepe.jpg)
