@@ -30,9 +30,4 @@ Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder sc
 [FAQ](/faq.md){: .btn}
 [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de){: .btn}
 
-> :Buttons
-> > :Button label=FAQ, url=/faq.md
->
-> > :Button label=Nachricht, url=mailto:klub-coderdojo-sprecher@hpi.de
-
 [![Karte](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.39362999999999,13.13175)
