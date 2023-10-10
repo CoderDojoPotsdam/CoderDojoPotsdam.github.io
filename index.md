@@ -25,7 +25,7 @@ Du kannst dich in den E-Mail-Verteiler für Neuigkeiten und Erinnerungen eintrag
 - Wenn du 12 oder jünger bist, einen Begleiter für die gesamte Zeit (darf auch programmieren).
 - Bring gerne auch etwas zu Essen für ein gemeinsames Buffet mit.
 
-Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de)
+Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de).
 
 [FAQ](/faq.md){: .btn}
 [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de){: .btn}
