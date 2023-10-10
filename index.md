@@ -4,7 +4,8 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-### nächstes Dojo am 14.10.2023 {: .center }
+### nächstes Dojo am 14.10.2023
+{: .center }
 
 [zur Anmeldung](){: .btn .center}
 
