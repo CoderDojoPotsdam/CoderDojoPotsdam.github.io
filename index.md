@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: CoderDojo Potsdam
 subtitle: ein offener Raum zum Programmieren lernen für Kinder
 ---
@@ -19,3 +19,5 @@ Du kannst dich in den E-Mail-Verteiler für Neuigkeiten und Erinnerungen eintrag
 - Bring gerne auch etwas zu Essen für ein gemeinsames Buffet mit.
 
 Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine Nachricht.
+
+[![Karte](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.39362999999999,13.13175)
