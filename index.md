@@ -30,4 +30,4 @@ Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder sc
 [FAQ](/faq.md){: .btn}
 [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de){: .btn}
 
-[![Karte](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.39362999999999,13.13175)
+[![Karte](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.39362999999999,13.13175){:width="100%"}
