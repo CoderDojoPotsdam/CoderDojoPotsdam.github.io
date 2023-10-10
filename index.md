@@ -17,7 +17,9 @@ CoderDojo ist ein Club für Mädchen und Jungen im Alter von 6 bis 17 Jahren, di
 
 [Anmeldung](){: .btn}
 
-Du kannst dich in den E-Mail-Verteiler für Neuigkeiten und Erinnerungen eintragen oder eine E-Mail senden und wir laden dich ein.
+Du kannst dich in den [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) für Neuigkeiten und Erinnerungen eintragen.
+
+[E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam){: .btn}
 
 ### In Präsenz solltest du mitbringen:
 
