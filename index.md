@@ -6,9 +6,9 @@ subtitle: ein offener Raum zum Programmieren lernen für Kinder
 
 CoderDojo ist ein Club für Mädchen und Jungen im Alter von 6 bis 17 Jahren, die Programmieren lernen und Spaß haben wollen.
 
-[Bild1](/assets/img/crepe.jpg)
-[Bild2](/assets/img/crepe.jpg)
-[Bild3](/assets/img/crepe.jpg)
+![Bild1](/assets/img/crepe.jpg)
+![Bild2](/assets/img/crepe.jpg)
+![Bild3](/assets/img/crepe.jpg)
 
 Du kannst dich in den E-Mail-Verteiler für Neuigkeiten und Erinnerungen eintragen oder eine E-Mail senden und wir laden dich ein.
 
