@@ -75,4 +75,40 @@ Mit diesem Material kannst du lernen, eigene Webseiten zu bauen.
 
 - [Webseiten bauen mit HTML und CSS](http://opentechschool.github.io/html-css-beginners/) - Heute werden wir lernen, wie man Websites mit HTML schreibt und mit CSS stylen kann. Unser Ziel ist es, ein persönliches Portfolio mit Präsentation und Kontakt-Seite zu bauen.
 
-- [Webseiten bauen mit PHP](https://www.php-einfach.de/php-tutorial/) - Wenn Ihr PHP lernen wollt, dann
+- [Webseiten bauen mit PHP](https://www.php-einfach.de/php-tutorial/) - Wenn Ihr PHP lernen wollt, dann empfehle ich euch dieses PHP Tutorial. In diesem PHP Tutorial werden auf die wichtigsten Grundlagen eingegangen, so dass ihr am Schluss selbständig PHP Scripts programmieren könnt.
+
+### Python
+
+Python is eine Allzweckprogramiersprache.
+
+- [Code Combat](https://codecombat.com/) - Renne mit deinem Helden durch ein Verlies und bekämpfe Oger.
+- [Waterloo Tutorial](https://cscircles.cemc.uwaterloo.ca/de/) - Das Waterloo-Tutorial führt auf unterschiedliche Weisen in Python ein und geht auf übliche Fehler ein. Es wird vom BWINF empfohlen.
+- [Python3-Kurs](https://www.python-kurs.eu/python3_kurs.php) - Wir bieten Ihnen hier ein vollständiges Tutorial, was sich als schneller Einstieg mit vielen praktischen Beispielen und erläuternden Illustrationen bestens für Anfänger - sowohl totale Programmieranfänger als auch Umsteiger von anderen Programmiersprachen - eignet. Aber auch fortgeschrittene Programmierer finden sicherlich noch viele interessante Themen und Einblicke.
+- [Eine Stunde Python](https://hourofpython.com/) - Learn Python for one hour and get a feeling of the language.
+- [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/) - Wir werden lernen Code zu schreiben, der coole und nützliche Dinge tut. Du wirst nicht länger daran gebunden sein, Programme von anderen Leuten zu verwenden um mit Deinem Computer Dinge zu tun.
+- [Check-IO](https://checkio.org/) - Coding game where you can improve your solutions or conquer the universe.
+- [Python & Blender](http://pymove3d.sudile.com/de/stories/python/) - Was immer Dich hierher geführt hat, Du findest hier Material zur Programmiersprache »Python« und dem 3D-Programm »Blender«. Darüber hinaus möchten wir Anregungen für den Einsatz der Software in der Schule und in der Freizeit geben.
+
+### JavaScript
+
+JavaScript ist die Programmiersprache, in der Webseiten geschrieben werden.
+
+- [JavaScript Hero](http://www.jshero.net/home.html) - Lerne programmieren mit JavaScript Hero, dem Tutorial mit interaktiven Übungen.
+- [Kursmaterial - JavaScript für absolute Anfänger](https://opentechschool.github.io/js-beginners-1/index_de.html) - Unser Ziel für diesen Workshop ist es, genug JavaScript zu lernen um gefährlich zu sein und nebenbei ein Gefühl für JavaScripts natürlichen Lebensraum (Web, Browser, HTML) zu bekommen. - [Offline](offline/js-beginners/index.html) - [Online](https://opentechschool.github.io/js-beginners-1/)
+- [Mache eine Hour of Code mit der Khan Academy](https://de.khanacademy.org/hourofcode) - Es gibt viele Wege, um an der "Hour of Code" teilzunehmen. Wähle den, der dir am meisten zusagt!
+- [Code Combat](https://codecombat.com/) - Renne mit deinem Helden durch ein Verlies und bekämpfe Oger.
+- [Check-IO](https://checkio.org/) - Coding game where you can improve your solutions or conquer the universe.
+
+### Git
+
+Wenn du Git benutzt, kannst du deine Programme mit anderen teilen und die Programmgeschichte behalten.
+
+- [git - Der einfache Einstieg](https://rogerdudler.github.io/git-guide/index.de.html) - Eine einfache Anleitung, um git zu lernen. Kein Schnick-Schnack ;)
+
+### Arduino
+
+Arduinos sind kleine Computer, mit denen du LEDs, Motoren und vieles mehr ansteuern kannst.
+
+- [Start Hardware](http://starthardware.org/) - Mikrocontroller sind kleine Computer, die man programmieren kann. Sie sind in fast allen technischen Geräten eingebaut. Man findet sie in Spielzeugen, Mikrowellenherden, Handys, Robotern, Autos und Raumschiffen. Hier erfährst du, wie du sie selbst programmieren kannst. Von blinkenden LEDs bis zum elektronischen Haustier tauchst du ein in die spannende Welt der Hardware.
+- [Funduino](http://funduino.de/vorwort) - Diese Anleitung soll als Grundlage zum Erlernen der Arduino-Plattform dienen. Sie soll Anfängern einen einfachen, interessanten und eng geleiteten Einstieg in die Arduino-Thematik geben.
+- [Arduino-Tutorial](http://www.arduino-tutorial.de/) - Einführung in Arduino, in sechs einfachen Schritten loslegen.
