@@ -22,9 +22,7 @@ Wir legen Schwerpunkte auf persönliche Betreuung für Jugendliche und auf Peer-
 
 09.12.2023 Weihnachsspecial
 
-[Anmeldung](){: .btn}
-
-Du kannst dich in den [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) für Neuigkeiten und Erinnerungen eintragen.
+Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
 
 ### In Präsenz solltest du mitbringen:
 
