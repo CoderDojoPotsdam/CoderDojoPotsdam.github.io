@@ -1,3 +1,9 @@
+---
+layout: page
+title: Material
+subtitle: Eine kleine Sammlung von Lehrmaterialien verschiedenster Themen
+---
+
 ### Symbole
 
 Weder lesen noch Schreiben - lerne Programmieren mit Symbolen
