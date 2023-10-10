@@ -9,5 +9,5 @@ permalink: /anmelden/
     <input type="text" name="name"> <br>
     <label for="age">Alter</label>
     <input type="number" name="age"> <br>
-    <input type="submit" value="Anmelden">
+    <input type="submit" value="Abschicken">
 </form>
