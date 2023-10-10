@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: ein offener Raum zum Programmieren lernen für Kinder
 ---
 
-## nächstes Dojo am 14.10.2023
+### nächstes Dojo am 14.10.2023
 
 [zur Anmeldung](){: .btn}
 
