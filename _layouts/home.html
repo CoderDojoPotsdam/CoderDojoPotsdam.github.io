@@ -3,12 +3,11 @@ layout: page
 ---
 
 {{ content }}
-
+<!-- for posts:
 {% assign posts = paginator.posts | default: site.posts %}
 
-<!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+<!- - role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics - ->
 
-<!-- for posts:
 <ul class="posts-list list-unstyled" role="list">
   {% for post in posts %}
   <li class="post-preview">
