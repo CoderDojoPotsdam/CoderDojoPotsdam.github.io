@@ -1,7 +1,7 @@
 ---
 layout: home
 title: CoderDojo Potsdam
-subtitle: ein offener Raum zum Programmieren lernen für Kinder
+subtitle: ein freier Ort zum Programmieren lernen für Kinder
 ---
 
 ### nächstes Dojo am 14.10.2023
@@ -12,20 +12,17 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 Wir legen Schwerpunkte auf persönliche Betreuung für Jugendliche und auf Peer- und selbstgesteuertes Lernen.
 
-![Bild1](/assets/img/crepe.jpg)
-![Bild2](/assets/img/crepe.jpg)
+![Bild1](/assets/img/photo_solder.jpg)
 
 ### Unsere nächsten Treffen
 
-- 14.10.2023 offenes Treffen
-- 11.11.2023 offenes Treffen
-- 09.12.2023 Weihnachsspecial
+14.10.2023 offenes Treffen
+11.11.2023 offenes Treffen
+09.12.2023 Weihnachsspecial
 
 [Anmeldung](){: .btn}
 
 Du kannst dich in den [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) für Neuigkeiten und Erinnerungen eintragen.
-
-[E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam){: .btn}
 
 ### In Präsenz solltest du mitbringen:
 
@@ -34,8 +31,5 @@ Du kannst dich in den [E-Mail-Verteiler](https://groups.google.com/forum/#!forum
 - Bring gerne auch etwas zu Essen für ein gemeinsames Buffet mit.
 
 Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de).
-
-[FAQ](/faq.md){: .btn}
-[Nachricht](mailto:klub-coderdojo-sprecher@hpi.de){: .btn}
 
 [![Karte](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.39362999999999,13.13175){:width="100%"}
