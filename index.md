@@ -16,10 +16,8 @@ Wir legen Schwerpunkte auf persönliche Betreuung für Jugendliche und auf Peer-
 
 ### Unsere nächsten Treffen
 
-14.10.2023 offenes Treffen
-
-11.11.2023 offenes Treffen
-
+14.10.2023 offenes Treffen \
+11.11.2023 offenes Treffen \
 09.12.2023 Weihnachsspecial
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
