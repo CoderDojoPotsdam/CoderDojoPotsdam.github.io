@@ -4,6 +4,10 @@ title: CoderDojo Potsdam
 subtitle: ein offener Raum zum Programmieren lernen für Kinder
 ---
 
+## nächstes Dojo am 14.10.2023
+
+[zur Anmeldung](){: .btn}
+
 CoderDojo ist ein Club für Mädchen und Jungen im Alter von 6 bis 17 Jahren, die Programmieren lernen und Spaß haben wollen.
 
 ![Bild1](/assets/img/crepe.jpg)
