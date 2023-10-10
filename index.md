@@ -12,7 +12,7 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 Wir legen Schwerpunkte auf persönliche Betreuung für Jugendliche und auf Peer- und selbstgesteuertes Lernen.
 
-![Bild1](/assets/img/photo_solder.jpg)
+![Bild1](/assets/img/photo_group.jpg)
 
 ### Unsere nächsten Treffen
 
