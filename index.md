@@ -15,19 +15,19 @@ Wir legen Schwerpunkte auf persönliche Betreuung für Jugendliche und auf Peer-
 
 ![Bild1](/assets/img/photo_group.jpg)
 
-### Unsere nächsten Treffen
+### Unsere nächsten Dojos
 
-14.10.2023 offenes Treffen \
-11.11.2023 offenes Treffen \
+14.10.2023 offenes Dojo \
+11.11.2023 offenes Dojo \
 09.12.2023 Weihnachsspecial
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
 
-### In Präsenz solltest du mitbringen:
+### Was solltest du mitbringen:
 
 - Du kannst gerne deinen eigenen Laptop oder dein Tablet mitbringen, ansonsten können wir dir aber auch einen Laptop stellen.
 - Wenn du 12 oder jünger bist, einen Begleiter für die gesamte Zeit (darf auch programmieren).
-- Bring gerne auch etwas zu Essen für ein gemeinsames Buffet mit.
+- Bring gerne auch etwas zu Essen für dich und andere mit.
 
 Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de).
 
