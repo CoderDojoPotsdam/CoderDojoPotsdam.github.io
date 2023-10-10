@@ -8,7 +8,15 @@ CoderDojo ist ein Club für Mädchen und Jungen im Alter von 6 bis 17 Jahren, di
 
 ![Bild1](/assets/img/crepe.jpg)
 ![Bild2](/assets/img/crepe.jpg)
-![Bild3](/assets/img/crepe.jpg)
+
+### Unsere nächsten Treffen
+
+- 14.10.2023 offenes Treffen
+- 11.11.2023 offenes Treffen
+- 09.12.2023 Weihnachsspecial
+
+> :Buttons
+> > :Button label=Anmedlung, url=
 
 Du kannst dich in den E-Mail-Verteiler für Neuigkeiten und Erinnerungen eintragen oder eine E-Mail senden und wir laden dich ein.
 
@@ -18,6 +26,11 @@ Du kannst dich in den E-Mail-Verteiler für Neuigkeiten und Erinnerungen eintrag
 - Wenn du 12 oder jünger bist, einen Begleiter für die gesamte Zeit (darf auch programmieren).
 - Bring gerne auch etwas zu Essen für ein gemeinsames Buffet mit.
 
-Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine Nachricht.
+Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de)
+
+> :Buttons
+> > :Button label=FAQ, url=/faq.md
+>
+> > :Button label=Nachricht, url=mailto:klub-coderdojo-sprecher@hpi.de
 
 [![Karte](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.39362999999999,13.13175)
