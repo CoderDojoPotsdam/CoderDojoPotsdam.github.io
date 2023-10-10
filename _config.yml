@@ -53,11 +53,11 @@ round-avatar: true
 social-network-links:
   email: "klub-coderdojo-sprecher@hpi.de"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  # facebook: deanattali
+  # github: daattali
+  # twitter: daattali
+  # patreon: DeanAttali
+  # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
