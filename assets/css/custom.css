@@ -48,3 +48,10 @@
   background-color: #41BAC1;
   box-shadow: rgba(65, 186, 193, .2) 0 1px 0 inset;
 }
+
+input[type=text], input[type=number] {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-bottom: 1px solid black;
+}
