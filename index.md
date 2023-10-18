@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### nächstes Dojo am 14.10.2023
+> ### nächstes Dojo am 11.11.2023
 {: .center }
 
 [zur Anmeldung](/anmeldung){: .btn .center}
@@ -15,7 +15,6 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 ### Unsere nächsten Dojos
 
-**14.10.2023** offenes Dojo \
 **11.11.2023** offenes Dojo \
 **09.12.2023** Weihnachsspecial
 
