@@ -22,9 +22,11 @@ Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in
 
 ### Was solltest du mitbringen:
 
+- die ausgefüllten und unterschriebenen [Teilnahmebedingungen](/assets/Teilnahmebedingungen-CoderDojo-Potsdam.pdf)
 - Du kannst gerne deinen eigenen Laptop oder dein Tablet mitbringen, ansonsten können wir dir aber auch einen Laptop stellen.
 - Wenn du 12 oder jünger bist, einen Begleiter für die gesamte Zeit (darf auch programmieren).
 - Bring gerne auch etwas zu Essen für dich und andere mit.
+
 
 Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de).
 
