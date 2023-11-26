@@ -4,19 +4,20 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### nächstes Dojo am 11.11.2023
+> ### nächstes Dojo am 09.12.2023
 {: .center }
 
 [zur Anmeldung](/anmeldung){: .btn .center}
 
-Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Computerclub für junge Menschen. Jeder im Alter von 7 bis 17 Jahren kann ein Dojo besuchen und Programmieren lernen, eine Website erstellen oder eine App oder ein Spiel erstellen. Dojos sind ein Ort, an dem Kinder und Jugendliche Technologie in einer informellen, kreativen, sicheren und sozialen Umgebung erkunden können.
+Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Computerclub für junge Menschen. Jeder im Alter von 5 bis 17 Jahren kann ein Dojo besuchen und Programmieren lernen, eine Website erstellen oder eine App oder ein Spiel erstellen. Dojos sind ein Ort, an dem Kinder und Jugendliche Technologie in einer informellen, kreativen, sicheren und sozialen Umgebung erkunden können.
 
 ![Bild1](/assets/img/Build_a_Makerspace_for_Young_People.jpg)
 
 ### Unsere nächsten Dojos
 
-**11.11.2023** offenes Dojo \
-**09.12.2023** Weihnachsspecial
+**09.12.2023** Weihnachsspecial in der machBar/ Freiland Potsdam\
+**13.01.2024** offenes Dojo \
+**27.01.2024** offenes Dojo
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
 
