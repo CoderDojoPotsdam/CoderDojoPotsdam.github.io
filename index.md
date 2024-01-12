@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### nächstes Dojo am 13.01.2024
+> ### nächstes Dojo am 13.01.2024 (Achtung: Verlegt nach Haus K)
 {: .center }
 
 [zur Anmeldung](/anmeldung){: .btn .center}
@@ -15,7 +15,7 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 ### Unsere nächsten Dojos
 
-**13.01.2024** offenes Dojo \
+**13.01.2024** offenes Dojo **Achtung: verlegt ins Haus K** \
 **27.01.2024** offenes Dojo \
 **10.02.2024** offenes Dojo
 
