@@ -4,6 +4,15 @@ title: Eindrücke
 subtitle: wirf einen Blick in unsere Treffen
 ---
 
+
+### Projekt Winterlichter 2024
+
+Im Januar konnte das Weihnachtsevent 2023 mit geändertem Motiv noch einmal gemacht werden:
+
+![Winterlicht (Motiv)](/assets/img/2024-01-13-Winterprojekt.jpeg)
+![Winterlicht beleuchtet](/assets/img/2024-01-13-Winterprojekt2.jpeg)
+
+
 ### Weihnachtsevent 2023
 
 ![Bild3](/assets/img/weihnachten_2023.jpg)
