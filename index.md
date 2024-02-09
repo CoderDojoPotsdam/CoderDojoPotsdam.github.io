@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### nächstes Dojo am 10.02.2024 (Achtung: Verlegt in die zweite Etage)
+> ### Abgesagt: nächstes Dojo am 10.02.2024 fällt aus!
 {: .center }
 
 [zur Anmeldung](/anmeldung){: .btn .center}
@@ -15,9 +15,9 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 ### Unsere nächsten Dojos
 
-**10.02.2024**, 14-17 Uhr: offenes Dojo \
 **24.02.2024**, 14-17 Uhr: offenes Dojo \
-**09.03.2024**, 14-17 Uhr: offenes Dojo
+**09.03.2024**, 14-17 Uhr: offenes Dojo \
+**13.04.2024**, 14-17 Uhr: offenes Dojo
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
 
