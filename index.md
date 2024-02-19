@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### Abgesagt: nächstes Dojo am 10.02.2024 fällt aus!
+> ### nächstes Dojo am 24.02.2024 14:00 - 17:00 H-2.57/58
 {: .center }
 
 [zur Anmeldung](/anmeldung){: .btn .center}
