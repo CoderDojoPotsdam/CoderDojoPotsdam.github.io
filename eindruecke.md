@@ -18,6 +18,8 @@ Im Januar konnte das Weihnachtsevent 2023 mit geändertem Motiv noch einmal gema
 ![Bild3](/assets/img/weihnachten_2023.jpg)
 ![Bild4](/assets/img/rotes_Weihnachtslicht.jpg)
 
+Anleitung und Ressourcen findet ihr hier: [https://github.com/CoderDojoPotsdam/ChristmasLight](https://github.com/CoderDojoPotsdam/ChristmasLight)
+
 
 ### Ältere Eindrücke
 
