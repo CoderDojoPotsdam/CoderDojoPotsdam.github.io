@@ -20,6 +20,13 @@ Im Januar konnte das Weihnachtsevent 2023 mit geändertem Motiv noch einmal gema
 
 Anleitung und Ressourcen findet ihr hier: [https://github.com/CoderDojoPotsdam/ChristmasLight](https://github.com/CoderDojoPotsdam/ChristmasLight)
 
+### Weihnachtsevent 2022
+![Weihnachtsmelodie](/assets/img/2022-weihnachtsmelodie.jpg)
+![dunkle Weihnachtsmelodie](/assets/img/2022-weihnachtsmelodie2.jpg)
+![Deko](/assets/img/weihnachtsdeko.jpeg)
+
+Anleitung und Ressourcen findet ihr hier: [https://github.com/CoderDojoPotsdam/ChristmasMelody](https://github.com/CoderDojoPotsdam/ChristmasMelody)
+
 
 ### Ältere Eindrücke
 
