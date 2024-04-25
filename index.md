@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### nächstes Dojo am 11.05.2024 14:00 - 17:00 H-E.51/52
+> ### nächstes Dojo am 04.05.2024 14:00 - 17:00 H-E.51/52
 {: .center }
 
 [zur Anmeldung](/anmeldung){: .btn .center}
@@ -15,7 +15,7 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 ### Unsere nächsten Dojos
 
-**11.05.2024**, 14-17 Uhr: offenes Dojo \
+**04.05.2024**, 14-17 Uhr: offenes Dojo \
 **08.06.2024**, 14-17 Uhr: offenes Dojo \
 **13.07.2024**, 14-17 Uhr: offenes Dojo
 

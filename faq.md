@@ -66,4 +66,4 @@ Darauf weisen wir explizit hin.
 
 ## Darf ich auch programmieren lernen?
 
-Ja. Du kannst das selbe ausprobieren, aber auch schon was anderes. Sprich uns darauf an, was es gibt und sei bei der Vorstellungsrunde dabei. Es wäre schade, wenn wir Verständnislosigkeit der Eltern fördern würden. Deswegen kannst du mitmachen und auch was lernen und so dein Kind besser untersützen.
+Ja. Du kannst das selbe ausprobieren, aber auch schon was anderes. Sprich uns darauf an, was es gibt und sei bei der Vorstellungsrunde dabei. Es wäre schade, wenn wir Verständnislosigkeit der Eltern fördern würden. Deswegen kannst du mitmachen und auch was lernen und so dein Kind besser unterstützen.
