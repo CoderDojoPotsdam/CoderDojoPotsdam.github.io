@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### nächstes Dojo am 13.07.2024 14:00 - 17:00 H-E.51/52
+> ### nächstes Dojo am 10.08.2024 14:00 - 17:00 H-E.51/52
 {: .center }
 
 [zur Anmeldung](/anmeldung){: .btn .center}
@@ -15,9 +15,9 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 ### Unsere nächsten Dojos
 
-**13.07.2024**, 14-17 Uhr: offenes Dojo \
 **10.08.2024**, 14-17 Uhr: offenes Dojo \
-**14.09.2024**, 14-17 Uhr: offenes Dojo 
+**14.09.2024**, 14-17 Uhr: offenes Dojo \
+**12.10.2024**, 14-17 Uhr: offenes Dojo
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
 
@@ -25,7 +25,7 @@ Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in
 
 - die ausgefüllten und unterschriebenen [Teilnahmebedingungen](/assets/Teilnahmebedingungen-CoderDojo-Potsdam.pdf)
 - Du kannst gerne deinen eigenen Laptop oder dein Tablet mitbringen, ansonsten können wir dir aber auch einen Laptop stellen.
-- Wenn du 12 oder jünger bist, einen Begleiter für die gesamte Zeit (darf auch programmieren).
+- Wenn du 12 oder jünger bist, eine erwachsene Begleitung für die gesamte Zeit (darf auch programmieren).
 - Bring gerne auch etwas zu Essen für dich und andere mit.
 
 
