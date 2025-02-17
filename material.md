@@ -22,10 +22,10 @@ Schreibe eigene Programme, indem du Blöcke zusammen steckst.
 -   [Blockly-Spiele](https://blockly-games.appspot.com/?lang=de) - Puzzle, navigiere durch ein Labyrinth oder bewege Vögel - mit Blockly lernst du die Grundlagen der Programmierung.
     -   [Labyrinth](https://blockly-games.appspot.com/maze?lang=de)
 -   [code.org](https://code.org/learn) - Minecraft, Star Wars, Anna und Elsa, Angry Birds, Flappy Bird - lerne Programmieren, indem du Rätsel löst.
--   [Snap](http://snap.berkeley.edu/index.html) - Baue dein eigenes Spiel oder eine Geschichte, indem du Blöcke zusammen steckst und malst.
 -   [Scratch](https://scratch.mit.edu/) - Erstelle eigene interaktive Geschichten und Spiele mit der App.
     -   [Invent with Scratch](https://inventwithscratch.com/book/)
     -   [Version 1.4](https://scratch.mit.edu/scratch_1.4/)
+-   [Snap](http://snap.berkeley.edu/index.html) - Baue dein eigenes Spiel oder eine Geschichte, indem du Blöcke zusammen steckst und malst. Bringe Scratch zum nächsten Level, z.B. mit Funktionen zum Verfremden von Fotos.
 -   [App Inventor](http://appinventor.mit.edu/) - Erstelle eigene Android Apps. Es gibt eine Reihe von Tutorials, die du benutzen kannst.
     -   [Hour of Code Tutorial](http://tinyurl.com/AI-tutorial-untertitel)
 -   [Ardublocks](http://schuelerlabor.informatik.rwth-aachen.de/modulmaterialien/ardublock) - Programmiere den Arduino mit Blöcken, steuere LEDs und andere Bauteile an.
@@ -33,7 +33,6 @@ Schreibe eigene Programme, indem du Blöcke zusammen steckst.
 -   [Paper-IO-Bot](https://niccokunzmann.github.io/paper-io-bot/) - Programmiere einen Bot für das Spiel Paper.io.
 -   [Turtle Stich](https://www.turtlestitch.org/) - Turtlestich - Muster mit Blöcken programmieren, die mit Stickmaschinen gestickt werden können
 -   [MIT App Inventor](https://appinventor.mit.edu/) - MIT App Inventor - mit Blöcken Android/ iPhone Apps programmieren
--   [Snap](https://snap.berkeley.edu/) - Scratch zum nächsten Level, z.B. mit Funktionen zum Verfremden von Fotos
 
 ### Syntax
 
@@ -42,6 +41,7 @@ In textbasierten Programmiersprachen schreibst du dein Programm mit der Tastatur
 -   [Hamstermodell](http://www.boles.de/hamster/index2.html) - Steuere einen Hamster durch eine eckige Welt und hilf ihm, alle Körner zu finden.
     -   [Tutorial](http://freizeitkreis-bl.de/hamster/)
 -   [Hedy](https://hedy.org/) - Hedy, Textprogrammierung für Klassenzimmer: Schritt für Schritt, Level für Level Richtung Python Syntax.
+-   [Karel](https://web.stanford.edu/~cpiech/karel/learn.html) - Steuere Karel den Roboter über ein zweidimensionales Feld und schreibe C-ähnliche Funktionen, um verschiedene Aufgaben zu lösen
 -   [Go-Tour](https://go-tour-de.appspot.com/welcome/2) - Willkommen zu einer Einführungstour in die Programmiersprache Go.
 -   [Reguläre Ausdrücke](https://coderdojopotsdam.github.io/regex-tutorial/) - Mit regulären Ausdrücken kannst du Texte durchsuchen. Ein regulärer Ausdruck ist ein Muster, das in einem Text gefunden werden soll. In vielen Programmiersprachen kannst du reguläre Ausdrücke verwenden, um Zeichenketten zu durchsuchen. Man kann mit regulären Ausdrücken auch testen, ob die Eingabe von Programmen korrekt ist und ob Nutzer sich vertippen.
 -   [Project Euler](https://projecteuler.net/) - Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
