@@ -1,8 +1,15 @@
 ---
 layout: page
 title: Eindrücke
-subtitle: wirf einen Blick in unsere Treffen
+subtitle: Wirf einen Blick in unsere Treffen
 ---
+
+### Weihnachtsevent 2024
+
+![Weihnachtsbox](/assets/img/2024-12-15-weihnachtsbox.jpg)
+![Weihnachtsboxen](/assets/img/2024-12-15-weihnachtsboxen.jpg)
+
+Anleitung und Ressourcen findet ihr hier: [https://github.com/CoderDojoPotsdam/AdventBox](https://github.com/CoderDojoPotsdam/AdventBox)
 
 
 ### Projekt Winterlichter 2024
