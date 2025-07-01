@@ -49,7 +49,7 @@ In textbasierten Programmiersprachen schreibst du dein Programm mit der Tastatur
 
 ### Ruby
 
-Ruby is eine Allzweckprogramiersprache.
+Ruby ist eine Allzweckprogramiersprache.
 
 -   [Sonic Pi](http://sonic-pi.net/) - Lerne kreativ Programmieren indem Du Musik komponierst und dazu verschiedene Stile von Klassik, Jazz, Grime und EDM benutzt.
 -   [Try Ruby](https://ruby.github.io/TryRuby/) - Got 15 minutes? Give Ruby a shot right now!
@@ -64,7 +64,7 @@ Mit diesem Material kannst du lernen, eigene Webseiten zu bauen.
 
 ### Python
 
-Python is eine Allzweckprogramiersprache.
+Python ist eine Allzweckprogramiersprache.
 
 -   [Code Combat](https://codecombat.com/) - Renne mit deinem Helden durch ein Verlies und bekämpfe Oger.
 -   [Waterloo Tutorial](https://cscircles.cemc.uwaterloo.ca/de/) - Das Waterloo-Tutorial führt auf unterschiedliche Weisen in Python ein und geht auf übliche Fehler ein. Es wird vom BWINF empfohlen.
