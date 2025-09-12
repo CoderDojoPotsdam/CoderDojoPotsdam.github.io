@@ -4,8 +4,10 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### nächstes Dojo am 09.08.2025 14:00 - 17:00 H-E.51/52
+> ### Dojo am 13. 09. fällt aus! - Helfende für Ersatztermin gesucht
 {: .center }
+
+Das reguläre Dojo in diesem Monat fällt leider aus. Wir versuchen einen Ersatztermin am kommenden Samstag, den 20. 09. 2025, einzurichten. Hierfür brauchen wir aber Unterstützung beim Mentoring. Wenn ihr Zeit und Lust habt zu helfen, schreibt uns.
 
 [zur Anmeldung](/anmeldung){: .btn .center}
 
@@ -15,7 +17,8 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 ### Unsere nächsten Dojos
 
-**09.08.2025**, 14-17 Uhr: offenes Dojo
+**11.10.2025**, 14-17 Uhr: offenes Dojo \
+**08.11.2025**, 14-17 Uhr: offenes Dojo
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
 
