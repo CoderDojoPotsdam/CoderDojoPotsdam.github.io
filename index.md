@@ -4,10 +4,8 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### Dojo am 13. 09. fällt aus! - Helfende für Ersatztermin gesucht
+> ### Nächstes Dojo am 11.10.2025 14:00 - 17:00 H-E.51/52
 {: .center }
-
-Das reguläre Dojo in diesem Monat fällt leider aus. Wir versuchen einen Ersatztermin am kommenden Samstag, den 20. 09. 2025, einzurichten. Hierfür brauchen wir aber Unterstützung beim Mentoring. Wenn ihr Zeit und Lust habt zu helfen, schreibt uns.
 
 [zur Anmeldung](/anmeldung){: .btn .center}
 
