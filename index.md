@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### Nächstes Dojo am 11.10.2025 14:00 - 17:00 H-E.51/52
+> ### Nächstes Dojo am 08.11.2025 14:00 - 17:00 H-E.51/52
 {: .center }
 
 [zur Anmeldung](/anmeldung){: .btn .center}
@@ -15,7 +15,6 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 ### Unsere nächsten Dojos
 
-**11.10.2025**, 14-17 Uhr: offenes Dojo \
 **08.11.2025**, 14-17 Uhr: offenes Dojo
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
