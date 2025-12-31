@@ -4,22 +4,24 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-> ### Nächstes Dojo am 13.12.2025 14:00 - 17:00 H-E.51/52
+> ### Nächstes Dojo am 10.01.2026 14:00 - 17:00 H-2.51/52
 {: .center }
 
-[zur Anmeldung](/anmeldung){: .btn .center}
-
-Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Computerclub für junge Menschen. Jeder im Alter von 5 bis 17 Jahren kann ein Dojo besuchen und Programmieren lernen, eine Website erstellen oder eine App oder ein Spiel erstellen. Dojos sind ein Ort, an dem Kinder und Jugendliche Technologie in einer informellen, kreativen, sicheren und sozialen Umgebung erkunden können.
+Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Computerclub für junge Menschen. Wenn du im Alter von 5 bis 17 Jahren bist, komme uns gerne besuchen und lerne Programmieren, bastele an deinen Hardware-Projekten oder baue eine Website, eine App oder ein Spiel. Dojos sind ein Ort, an dem du Technologie in einer informellen, kreativen, sicheren und sozialen Umgebung erkunden kannst.
 
 ![Bild1](/assets/img/Build_a_Makerspace_for_Young_People.jpg)
 
 ### Unsere nächsten Dojos
 
-* **13.12.2025**, 14-17 Uhr, Haus H, Raum E.51/52: weihnachtliches Dojo + Überraschung
-* **10.01.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo
+* **10.01.2026**, 14-17 Uhr, Haus H, Raum 2.51/52: offenes Dojo
 * **14.02.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo
+* **14.03.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
+
+### Anmeldung
+
+Seit Anfang 2025 müsst ihr euch nicht mehr anmelden. Unsere Dojos sind offen für alle und ihr könnt gerne einfach vorbeikommen. Sollten wir Spezialevents veranstalten oder einen Workshop mit begrenzter Teilnehmendenzahl, dann kündigen wir das explizit an.
 
 ### Was solltest du mitbringen:
 
@@ -29,6 +31,6 @@ Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in
 - Bring gerne auch etwas zu Essen für dich und andere mit.
 
 
-Du hast noch weitere Fragen? Dann schau in unserem [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de).
+Du hast noch weitere Fragen? Dann schau in unseren [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de).
 
 [![Karte](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.3938691,13.1332946){:width="100%"}
