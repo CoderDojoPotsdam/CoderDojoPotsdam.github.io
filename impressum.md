@@ -5,7 +5,7 @@ title: Impressum
 
 ### Angaben gemäß § 5 TMG
 
-Studierenklub CoderDojo Potsdam \
+Studierendenclub CoderDojo Potsdam \
 c/o Hasso-Plattner-Institut gGmbH \
 Prof.-Dr.-Helmert-Str. 2-3 \
 14482 Potsdam

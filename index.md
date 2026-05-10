@@ -4,7 +4,7 @@ title: CoderDojo Potsdam
 subtitle: 
 ---
 
-![Bild1](/assets/img/Build_a_Makerspace_for_Young_People.jpg)
+![Erwachsene und Kinder arbeiten gemeinsam an Laptops während eines Workshops bei CoderDojo Potsdam](/assets/img/Build_a_Makerspace_for_Young_People.jpg)
 
 > ### Nächstes Dojo: offenes Dojo am 09.05.2026 14:00 - 17:00 H-E.51/52
 {: .center }
@@ -33,4 +33,4 @@ Seit Anfang 2025 müsst ihr euch nicht mehr anmelden. Unsere Dojos sind offen f�
 
 Du hast noch weitere Fragen? Dann schau in unseren [FAQ](/faq.md) vorbei oder schreibe uns eine [Nachricht](mailto:klub-coderdojo-sprecher@hpi.de).
 
-[![Karte](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.3938691,13.1332946){:width="100%"}
+[![Karte der Umgebung des HPI Campus Griebnitzsee](/assets/img/staticmap.png)](https://www.google.com/maps/search/?api=1&query=52.3938691,13.1332946){:width="100%"}
