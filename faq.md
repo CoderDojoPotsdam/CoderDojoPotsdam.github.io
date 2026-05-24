@@ -29,13 +29,13 @@ Wir versuchen sie mindestens jeden zweiten Samstag im Monat stattfinden zu lasse
 
 ## Wie alt sind die anderen?
 
-Die Teilnehmenden sind im Alter bis 18 Jahren. Die Mentoren dementsprechend meistens älter. Es ist bestimmt jemand anderes in deinem Alter ± ein Jahr da. Es gibt das [Material von der OpenTechSchool](https://learn.opentechschool.org/), das Erwachsene verwenden, und mit [code.org](https://code.org/) können sich sehr junge Teilnehmende beschäftigen, selbst für Vorschulkinder gibt es ScratchJr und Lightbot. Das waren die beiden Extreme. Auf der [Website](https://CoderDojoPotsdam.github.io) steht das gesamte Material. Es zählt das Interesse, es mal auszuprobieren.
+Die Teilnehmenden sind im Alter bis 18 Jahren. Die Mentoren dementsprechend meistens älter. Es ist bestimmt jemand anderes in deinem Alter ± ein Jahr da. Es gibt das [Material von der OpenTechSchool](https://learn.opentechschool.org/), das Erwachsene verwenden, und mit [code.org](https://code.org/) können sich sehr junge Teilnehmende beschäftigen, selbst für Vorschulkinder gibt es ScratchJr und Lightbot. Das waren die beiden Extreme. Auf der [Website](https://CoderDojoPotsdam.github.io/material/) steht das gesamte Material. Es zählt das Interesse, es mal auszuprobieren.
 
 # Fragen von Teilnehmenden
 
 ## Können auch Tablets verwendet werden?
 
-Ja. Mitbringen. Für IPads und IPhones gibt es [Hopscotch](https://www.gethopscotch.com/), [ScratchJr](https://www.scratchjr.org/) und [Lightbot](https://itunes.apple.com/de/app/lightbot-programming-puzzles/id657638474?mt=8). [Lightbot](https://itunes.apple.com/de/app/lightbot-programming-puzzles/id657638474?mt=8) ist auch für Android erhältlich. Außerdem kann man mit [App Inventor](https://appinventor.mit.edu/) [Android apps programmieren](https://www.universalsubtitles.org/en/videos/Uhxo9Ar9G9N3/info/talk-to-me-part-1-mit-app-inventor-tutorial-1/), wenn man einen Laptop hat.
+Ja. Mitbringen. Für IPads und IPhones gibt es [Hopscotch](https://www.gethopscotch.com/), [ScratchJr](https://www.scratchjr.org/) und [Lightbot](https://itunes.apple.com/de/app/lightbot-programming-puzzles/id657638474?mt=8). [Lightbot](https://itunes.apple.com/de/app/lightbot-programming-puzzles/id657638474?mt=8) ist auch für Android erhältlich. Außerdem kann man mit [App Inventor](https://appinventor.mit.edu/) Android Apps programmieren, wenn man einen Laptop hat.
 
 ## Kann ich meinen Laptop mitbringen?
 
