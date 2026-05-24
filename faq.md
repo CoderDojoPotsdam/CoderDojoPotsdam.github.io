@@ -49,8 +49,7 @@ Es gibt die Mailingliste [coderdojopotsdam-discuss](https://groups.google.com/fo
 
 ## Wie bekomme ich mit, wann das nächste Dojo ist?
 
-1. Melde dich beim [nächsten Dojo](https://CoderDojoPotsdam.github.io) an.
-2. Trage dich in den [Coder Dojo Potsdam Mailverteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) ein.
+Die Dojos finden generell jeden zweiten Samstag im Monat statt. Auf der [Hauptseite](https://CoderDojoPotsdam.github.io) sind die nächsten Termine aufgelistet. Eine gesonderte Anmeldung ist nicht nötig. Sollten wir einen Termin absagen, Spezialevents oder Workshops mit begrenzter Teilnehmendenzahl veranstalten, kündigen wir das explizit in unserem [Coder Dojo Potsdam Mailverteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) an.
 
 ## Bin ich zu alt?
 

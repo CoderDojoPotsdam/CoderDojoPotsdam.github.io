@@ -21,7 +21,7 @@ Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in
 
 ### Anmeldung
 
-Seit Anfang 2025 müsst ihr euch nicht mehr anmelden. Unsere Dojos sind offen für alle und ihr könnt gerne einfach vorbeikommen. Sollten wir Spezialevents veranstalten oder einen Workshop mit begrenzter Teilnehmendenzahl, dann kündigen wir das explizit an.
+Unsere Dojos sind offen für alle und ihr könnt gerne einfach vorbeikommen. Eine gesonderte Anmeldung ist nicht nötig. Sollten wir Spezialevents veranstalten oder einen Workshop mit begrenzter Teilnehmendenzahl, dann kündigen wir das explizit an.
 
 ### Was solltest du mitbringen:
 
