@@ -1,0 +1,29 @@
+name: Dojo-Termine aktualisieren
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'   # sonntags 04:00 UTC (~05-06 Uhr Berlin)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    name: Termine aktualisieren
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Termine berechnen
+        run: python3 scripts/update_dojo_dates.py
+      - name: Änderungen committen
+        run: |
+          if [ -n "$(git status --porcelain index.md)" ]; then
+            git config user.name  'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add index.md
+            git commit -m 'chore: Dojo-Termine automatisch aktualisiert'
+            git push
+          else
+            echo 'Keine Änderung – nichts zu committen.'
+          fi
