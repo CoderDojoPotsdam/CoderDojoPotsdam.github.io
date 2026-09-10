@@ -13,9 +13,9 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 
 ### Unsere nächsten Dojos
 
-* **12.09.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo
-* **10.10.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo
-* **14.11.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo
+* **12.09.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo mit GeoLino-Reporter
+* **10.10.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo mit Schnupper-Biber
+* **14.11.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo mit Biber-Wettbewerb
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
 
