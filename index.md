@@ -14,7 +14,7 @@ Ein Dojo ist ein freier, von Freiwilligen geleiteter, Community-basierter Comput
 ### Unsere nächsten Dojos
 
 * **14.11.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo mit Biber-Wettbewerb
-* **12.12.2026**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo
+* **12.12.2026**, 14-17 Uhr, Weihnachtsbasteln @ [machBar Potsdam](https://machbar-potsdam.de/), Anmeldung erforderlich
 * **09.01.2027**, 14-17 Uhr, Haus H, Raum E.51/52: offenes Dojo
 
 Falls du immer die neuesten Termine und Infos bekommen willst, kannst du dich in unseren [E-Mail-Verteiler](https://groups.google.com/forum/#!forum/coderdojopotsdam) eintragen.
